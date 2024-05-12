@@ -1,0 +1,6 @@
+byte_stream_construction 8 0.000295093
+byte_stream_one_write 7 0.000332387
+byte_stream_two_writes 7 0.000322283
+byte_stream_capacity 12 0.0527376
+byte_stream_many_writes 9 0.000153962
+---
